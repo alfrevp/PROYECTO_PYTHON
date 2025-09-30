@@ -1,3 +1,12 @@
+# Proyecto Integrador – Python
+
+Este proyecto fue desarrollado como trabajo integrador dentro del **Seminario de Python** de la Facultad de [nombre de tu facultad], año 2025.  
+El objetivo principal es procesar y analizar datos de encuestas de hogares mediante Python, implementando limpieza de datos, cálculos estadísticos y visualizaciones interactivas.
+El código refleja la lógica y metodología utilizada en el trabajo integrador, sin incluir archivos pesados ni datos privados.
+Para la descarga de los datasets, ir a "Microdatos y Documentos 2016-2025" en el siguiente link: https://www.indec.gob.ar/indec/web/Institucional-Indec-BasesDeDatos
+
+////////////////////////////////
+
 # Encuest.AR 📊
 
 **Encuest.AR** es una aplicación interactiva desarrollada en Python con Streamlit para la visualización y análisis de datos de la Encuesta Permanente de Hogares (EPH) del INDEC. Este proyecto permite explorar información demográfica, laboral, educativa y habitacional de manera dinámica y accesible.
